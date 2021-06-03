@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last papers betwixt His Maiesty, and the commissioners of Parliament, concerning church-government. And His Majesties speech to the commissioners, to be communicated to both Houses of Parliament. Dated at Newport 4. Novemb. 1648.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78837</idno><idno type="EEBO-CITATION">99872430</idno>
+  <idno type="VID">162392</idno>
+  <idno type="EEBO-PROQUEST">2264187409</idno>
+  
+            <idno type="STC">Wing C2375</idno>
+            <idno type="STC">Thomason E470_20</idno>
+            <idno type="STC">ESTC R35848</idno>
+            <idno type="PROQUEST">99872430</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99872430e"/>
+            <note>(EEBO-TCP ; phase 2, no. A78837)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162392)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E470[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last papers betwixt His Maiesty, and the commissioners of Parliament, concerning church-government. And His Majesties speech to the commissioners, to be communicated to both Houses of Parliament. Dated at Newport 4. Novemb. 1648.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Lownes,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "nou: 9th".</note>
+                  <note>Reproductions of the originals in the Huntington Library and the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649.</term>
+               <term type="corporate_name">Church of England --  Government --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162392:1"/>
+            <p>THE LAST PAPERS BETWIXT HIS MAIESTY, AND THE <hi>Commissioners of</hi> PARLIAMENT, CONCERNING Church-Government.</p>
+            <p>AND His Majesties Speech to the Commissioners, to be communicated to both Houses of Parlia<g ref="char:EOLhyphen"/>ment. <hi>Dated at Newport</hi> 4. <hi>Novemb.</hi> 1648.</p>
+            <figure>
+               <figDesc>Royal seal</figDesc>
+               <head>C R</head>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+            </figure>
+            <p>
+               <hi>London:</hi> Printed for <hi>Richard Lownes.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="correspondence">
+            <pb facs="tcp:162392:2"/>
+            <pb n="1" facs="tcp:162392:2"/>
+            <head>The last Papers betwixt His Majestie, and the Commissioners.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>WE are commanded by the Houses of Parliament to desire Your Majestie to expresse your particular Exceptions to the Ordinances mentioned, and contained in the Proposition concerning the Church, that being reduced to certainty and stated, they may be returned to both Houses.</p>
+                  <closer>
+                     <dateline>Newport,<date> 3. Novemb. 1648.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>IN answer to your Paper of the 3. November, deli<g ref="char:EOLhyphen"/>vered in late last night, you desire His Majestie to ex<g ref="char:EOLhyphen"/>presse his Exceptions to severall Ordinances mention<g ref="char:EOLhyphen"/>ed in your Proposition concerning the Church. His Ma<g ref="char:EOLhyphen"/>jestie saith, that those Ordinances being many and large, and finding that after this day you can receive no more Papers without further Instructions, His Majesty con<g ref="char:EOLhyphen"/>ceives himself so limited in time, that he cannot so sud<g ref="char:EOLhyphen"/>denly give you his particular Exceptions to the said Or<g ref="char:EOLhyphen"/>dinances.</p>
+                  <closer>
+                     <dateline>Newport,<date> 4. Novemb. 1648.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>HIs Majesties Propositions delivered unto you the 17. Octob. 1648. having been transmitted by you to his two Houses, and His Majesty having received no an<g ref="char:EOLhyphen"/>swer thereunto, he desires to know whether you have yet received any Instructions concerning the same.</p>
+                  <closer>
+                     <dateline>Newport,<date> 4. Novemb. 1648.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="2" facs="tcp:162392:3"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>VVHereas we by our Paper of the third instant desired your Majesty to expresse your particu<g ref="char:EOLhyphen"/>lar Exceptions to the Ordinances mentioned and contain<g ref="char:EOLhyphen"/>ed in the Proposition concerning the Church; unto which Your Majestie by your Answer thereunto this fourth in<g ref="char:EOLhyphen"/>stant is pleased to say, those Ordinances being many and large, and that after this day we can receive no more Pa<g ref="char:EOLhyphen"/>pers without further Instructions, and therefore conceive your selfe so limited in time, that Your Majesty cannot so suddenly give your particular Exceptions to the said Or<g ref="char:EOLhyphen"/>dinances: We humbly conceive, those Ordinances having been many daies since the beginning of this Treaty in Your Majesties hands, and under Your Majesties consi<g ref="char:EOLhyphen"/>deration, the same cannot be new unto Your Majesty: And therefore we againe humbly desire Your Majesty to expresse your particular Exceptions to the said Ordi<g ref="char:EOLhyphen"/>nances, as by our said Paper of the third of this instant, we have formerly desired.</p>
+                  <p>FOr a finall answer to you, as to your Paper of the first of this instant, and the notes therein mentioned con<g ref="char:EOLhyphen"/>cerning the Church, His Majesty saith, that his Concessions expressed in that Paper, and misapprehended in these particulars following, <hi>viz.</hi> he neither did, nor doth intend to make any more new Bishops during the terme of three yeares, nor in the end of three yeares, that the power of Ordination should be practised in the old manner as formerly, for that heretofore the Bishops were at liberty to call what Presbyters they would to assist in ordaining, but were not bound to their Counsell or consent; but His Majesty doth now intend, and will consent, that Bishops shall not receive any into Holy Or<g ref="char:EOLhyphen"/>ders without the consent of a limited number of Presby<g ref="char:EOLhyphen"/>ters, to be chosen in such manner as shall be agreed on by
+<pb n="3" facs="tcp:162392:3"/>his Majesty, and his two Houses for that purpose. Nei<g ref="char:EOLhyphen"/>ther did his Majestie intend that after the end of three yeers no certaine way should be setled concerning Eccle<g ref="char:EOLhyphen"/>siasticall Government; for that his Majesty did propose during the three years, to have a Consultation with the Assembly of Divines, twenty being added of his owne nomination; which if his two Houses shall resolve to en<g ref="char:EOLhyphen"/>tertaine, it cannot well be doubted, but upon the debate, such a Government will be agreed upon by his Majesty and his two Houses, as shall be best for the peace of the Church, and most proper to prevent those distractions which his two Houses apprehend may ensue.</p>
+                  <p>And as to that part of the Proposition concerning the Booke of Common-Prayer, for the satisfaction of his two Houses, his Majesty will not insist upon any provi<g ref="char:EOLhyphen"/>sion for continuance of the same in his Majesties Chap<g ref="char:EOLhyphen"/>pell for himselfe and his Houshold; neverthelesse his Majestie declares, that he intends to use some other set form of Divine Service.</p>
+                  <p>And as to that part of the Proposition, that an Act or Acts be passed for a stricter course to prevent the saying and hearing of Masse in the Court, or any other part of the Kingdome, or the Kingdome of Ireland, his Majestie will consent thereunto.</p>
+                  <p>As to all other particulars in your Paper mentioned, his Majesty having in his former Answers consented so far as possibly he can, as he stands at present perswaded in his judgement; doth refer himselfe thereunto. And since his Majestie by his Concessions hath brought all differences concerning the Church into so narrow a com<g ref="char:EOLhyphen"/>passe, that the chiefe visible obstruction is that, wherein really in conscience he is not satisfied: He hopes his two Houses will not put further pressures of so tender a na<g ref="char:EOLhyphen"/>ture
+<pb n="4" facs="tcp:162392:4"/>upon him, when it is most likely the time and De<g ref="char:EOLhyphen"/>bate will happily reconcile all these differences.</p>
+                  <closer>
+                     <dateline>Newport<date>Novem. 4. 1648.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>His Majesties finall Answer to the Paper concerning the Exceptions to the Ordi<g ref="char:EOLhyphen"/>nances about the Church.</head>
+                  <p>FOr a finall Answer to you as to your Paper of the 4. instant, wherby you desire his Majesty to expresse his particular Exceptions to the Ordinances mentioned of the Propositions concerning the Church, His Majesty saith; that by his Answer of the 9. of Octob. he did expresse the generall reason why he did not consent to the severall Or<g ref="char:EOLhyphen"/>dinances in the forme they are now penned, and that he heard no more thereof untill he received your Paper late in the evening last night; so that though those Ordinan<g ref="char:EOLhyphen"/>ces have been many daies in his Majesties hand, and are not new unto him, yet this being the last day wherein you (by your Instructions) can receive any Papers from him, his Majesty cannot in so short time review the seve<g ref="char:EOLhyphen"/>rall Ordinances, and state the particular Exceptions there<g ref="char:EOLhyphen"/>unto; and therefore he adheres to his former Answer therein.</p>
+                  <closer>
+                     <dateline>Newport<date> 4. Novem. 1648.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>HAving received your Majesties severall Answers to our Paper of the first of this instant concern<g ref="char:EOLhyphen"/>ing the Church, and likewise to our Paper of the fourth of this instant, touching your Majesties particular Exceptions to the Propositions concerning the Church,
+<pb n="5" facs="tcp:162392:4"/>we shall communicate them to both Houses of Parlia<g ref="char:EOLhyphen"/>ment.</p>
+                  <p>Newport 4. Novem. 1648.</p>
+                  <p>IN Answer to your Majesties Paper delivered unto us this fourth of Novem. instant, whereby your Majesty desires to know whether we have received any Instructi<g ref="char:EOLhyphen"/>ons concerning Your Majesties Propositions transmitted by us to both Houses of Parliament; we humbly say, that we have not yet received any Instructions concerning the same.</p>
+               </body>
+            </floatingText>
+            <div type="speech">
+               <head>At the close of the Treaty the King made a short Speech to this purpose.</head>
+               <p>That his Majesty hoped, the Commissioners were now sensible, that none was more desirous of a good and lasting peace then himselfe; That he had gone very far to give his two Houses satisfaction; that he thought, though the time for the Treaty was ended, yet the Treaty it selfe was not. That he expected to heare from his two Houses about his own Propositions, and would be ready to make his Concessions binding, by giving them the force of Lawes. He desired that the Commissioners would put a good interpretation upon his vehement expressions in some of his Debates, there being nothing in his intentions but kindnesse; and that as they had taken abundance of freedome, and shewed great abilities in their Debates,
+<pb n="6" facs="tcp:162392:5"/>which have taken his Majesty off from some of his own opinions, so his Majesty doubted not (had they had power to recede some of his Reasons) would have pre<g ref="char:EOLhyphen"/>vailed with them, as he is confident, had it been with his two Houses, it would have done with them. And there<g ref="char:EOLhyphen"/>fore beseeches them to take the same freedome with his two Houses, to presse them to a compliance with him in those things his conscience is not yet satisfied in, which more time may do; his opinion not being like the Lawes of the <hi>Medes</hi> and <hi>Persians,</hi> unalterable or infalli<g ref="char:EOLhyphen"/>ble. Adding his Majesties very hearty thanks for the paines they have taken to satisfie him, professing, that he wanted eloquence to commend their abilities; desired them candidly to represent all the Transactions of this Treaty to his two Houses, that they might see nothing of his interest, how near or dear soever (but that wherein his conscience is unsatisfied) can hinder on his part a happy conclusion of this Treaty. And then he and the Com<g ref="char:EOLhyphen"/>missioners took leave; and at night after Supper they came and kissed his hand, and received a great deale of re<g ref="char:EOLhyphen"/>spect from his Majesty.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
